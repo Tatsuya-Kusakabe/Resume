@@ -3,9 +3,10 @@
 ## 基本情報
 
 |key|value|
-|---|-----|
+|:-:|:---:|
 |Name|日下部 達哉 (Tatsuya Kusakabe)|
-|GitHub|[こちら](https://github.com/Tatsuya-Kusakabe)|
+|Email|t.kskb.boyohnbounce@gmail.com|
+|LinkedIn|[こちら](https://www.linkedin.com/in/tatsuya-kusakabe-a5188b96/)|
 
 ## スキル
 
