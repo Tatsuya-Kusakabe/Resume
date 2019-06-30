@@ -24,14 +24,16 @@
 |日本語|ネイティブ|
 |英語|ビジネス (TOEIC: 970)|
 
-### プログラミング言語
-- Ruby
-- Javascript
+### プログラミング言語・フレームワーク
 
-### フレームワーク
-- Ruby on Rails
-- React.js
-- Flux
+|フレームワーク (言語)|使用時期|
+|:----------------:|:-----:|
+|Ruby on Rails (Ruby)|2018.11 ~ 2019.03|
+|React, Flux (JavaScript)|2018.11 ~ 2019.03|
+|React, Flux (TypeScript)|2019.03 ~ 2019.05|
+|Express, Passport (TypeScript)|2019.03 ~ 2019.05|
+|Webpack (JavaScript)|2019.03 ~ 2019.05|
+
 
 ## 職務経歴 (progate)
 
