@@ -8,6 +8,13 @@
 |Email|t.kskb.boyohnbounce@gmail.com|
 |LinkedIn|[こちら](https://www.linkedin.com/in/tatsuya-kusakabe-a5188b96/)|
 
+## 資格
+
+|資格|取得月|
+|:-:|:---:|
+|基本情報処理技術者|2019.05|
+|LPIC Level 1|2019.06|
+
 ## スキル
 
 ### 自然言語
